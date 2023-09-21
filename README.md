@@ -42,6 +42,13 @@ Skills :-
 
 ■GIT/GITLAB/GITHUB
 
+■ADOBE PHOTOSHOP
+
+■ADOBE ILLUSTRATOR
+
+■ADOBE XD
+
+
 SOCIAL MEDIA 
 
 INSTAGRAM :- https://www.instagram.com/wineett/?theme=dark 
