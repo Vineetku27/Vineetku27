@@ -1,66 +1,37 @@
-Hi 👋 My name is Vineet Kumar
+# Hi 👋, I'm Vineet Kumar
 
-Frontend Developer & Backend developer.
+### Frontend & Backend Developer
 
-Designing and Developing Responsive And Dynamic Websites And Web Apps. 
+I design and develop **responsive** and **dynamic** websites and web apps. I’m passionate about creating solutions that enhance user experiences and love to share my knowledge through my social platforms.
 
-✉️ You can contact me at vineetku027@gmail.com
+- ✉️ **Contact me:** [vineetku027@gmail.com](mailto:vineetku027@gmail.com)
+- ⚡ **I create content** to spread knowledge across my socials.
+- 🤝 **Open to collaborations** on my social media channels.
+- 😸 **Learn from my journey**, I hope my experiences help others grow.
 
-•⚡ I create content to spread knowledge across my socials.
+---
 
-•🤝 I'm open to collaborating on my social media channels.
+## Skills:
+- **Frontend:**  
+  - HTML, CSS, Bootstrap, JavaScript, jQuery, React.js
+- **Backend:**  
+  - Node.js, Express.js, Python, Django
+- **Databases:**  
+  - MongoDB, MySQL, SQL
+- **Version Control:**  
+  - Git, GitLab, GitHub
+- **Design:**  
+  - Adobe Photoshop, Adobe Illustrator, Adobe XD
 
-•😸 It’s good to learn from other’s mistakes, I wish people learn something from me.
+---
 
-Skills :-
+## Social Media:
+- [Instagram](https://www.instagram.com/wineett/?theme=dark)  
+- [Instagram (Code by Wineet)](https://www.instagram.com/codebywineet/?theme=dark)  
+- [LinkedIn](https://www.linkedin.com/in/vineetku027)  
+- [Facebook](https://www.facebook.com/vineett27/)  
+- [Twitter](https://twitter.com/wineett)
 
-■HTML
+---
 
-■CSS
-
-■BOOSTTRAP
-
-■JAVASCRIPT
-
-■JQURY
-
-■REACT.JS
-
-■NODE.JS
-
-■EXPRESS.JS
-
-■PYTHON
-
-■DJANGO
-
-■MONGO-DB
-
-■MYSQL
-
-■SQL
-
-■GIT/GITLAB/GITHUB
-
-■ADOBE PHOTOSHOP
-
-■ADOBE ILLUSTRATOR
-
-■ADOBE XD
-
-
-SOCIAL MEDIA 
-
-INSTAGRAM :- https://www.instagram.com/wineett/?theme=dark 
-
-INSTAGRAM :- https://www.instagram.com/codebywineet/?theme=dark
-
-linkedin :-www.linkedin.com/in/vineetku027
-
-FACEBOOK :-https://www.facebook.com/vineett27/
-
-TWITTER:-https://twitter.com/wineett
-
-
-
-
+Let's connect and collaborate! 🚀
